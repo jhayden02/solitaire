@@ -9,7 +9,7 @@ on both. The project uses GitHub Pages to host the web-compiled game in a separa
 [gh-pages](https://github.com/jhayden02/raylib_template/tree/gh-pages). GitHub Workflows
 re-compiles the game to this branch on each push in the event source files are changed.
 
-To play the most recent commit of the game hosted on GitHub Pages, go [here](https://jhayden02.github.io/blinks-thinks/).
+To play the most recent commit of the game hosted on GitHub Pages, go [here](https://jhayden02.github.io/raylib_template/).
 
 The link to your GitHub Pages page will always follow this pattern:
 * https://username.github.io/repository_name/
